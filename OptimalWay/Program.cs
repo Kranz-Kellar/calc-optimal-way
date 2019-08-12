@@ -93,7 +93,5 @@ namespace OptimalWay
             Console.WriteLine($"{showplace.Name}, {showplace.TimeToVisit}ч, {showplace.Importance}");
         }
 
-
-
     }
 }
